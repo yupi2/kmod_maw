@@ -1,0 +1,6 @@
+*
+*/**
+!.gitignore
+!kmod_maw.c
+!kmod_FUCK.c
+!Makefile
